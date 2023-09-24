@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "341AF11C-185B-4192-91DA-A0BE1685878D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "159608F6-D0EA-4850-ADD7-6AF7D7C705EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCalendarApp/SupportedFiles/VACalendar/VAMonthHeaderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "setConstraints()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "159608F6-D0EA-4850-ADD7-6AF7D7C705EB - 43cf3655c5a45bfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SnapKit.ConstraintMaker) -&gt; () in TestCalendarApp.VAMonthHeaderView.setConstraints() -&gt; ()"
+                  moduleName = "TestCalendarApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erbolot/Desktop/Projects%20Mac15/TestCalendarApp/TestCalendarApp/SupportedFiles/VACalendar/VAMonthHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "159608F6-D0EA-4850-ADD7-6AF7D7C705EB - 43cf3655c5a45bda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SnapKit.ConstraintMaker) -&gt; () in TestCalendarApp.VAMonthHeaderView.setConstraints() -&gt; ()"
+                  moduleName = "TestCalendarApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erbolot/Desktop/Projects%20Mac15/TestCalendarApp/TestCalendarApp/SupportedFiles/VACalendar/VAMonthHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37DE398F-0780-49E0-8915-B4D0591A15A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCalendarApp/SupportedFiles/VACalendar/VAMonthHeaderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "setConstraints()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37DE398F-0780-49E0-8915-B4D0591A15A0 - f2151e701de2ef02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (SnapKit.ConstraintMaker) -&gt; () in TestCalendarApp.VAMonthHeaderView.setConstraints() -&gt; ()"
+                  moduleName = "TestCalendarApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erbolot/Desktop/Projects%20Mac15/TestCalendarApp/TestCalendarApp/SupportedFiles/VACalendar/VAMonthHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "37DE398F-0780-49E0-8915-B4D0591A15A0 - f2151e701de2ef02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (SnapKit.ConstraintMaker) -&gt; () in TestCalendarApp.VAMonthHeaderView.setConstraints() -&gt; ()"
+                  moduleName = "TestCalendarApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erbolot/Desktop/Projects%20Mac15/TestCalendarApp/TestCalendarApp/SupportedFiles/VACalendar/VAMonthHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "37DE398F-0780-49E0-8915-B4D0591A15A0 - f2151e701de2ece1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (SnapKit.ConstraintMaker) -&gt; () in TestCalendarApp.VAMonthHeaderView.setConstraints() -&gt; ()"
+                  moduleName = "TestCalendarApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erbolot/Desktop/Projects%20Mac15/TestCalendarApp/TestCalendarApp/SupportedFiles/VACalendar/VAMonthHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "865FD0C6-DEA8-48CD-A92A-828048D2DF6C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCalendarApp/Modules/Calendar/CalendarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "865FD0C6-DEA8-48CD-A92A-828048D2DF6C - 65a539f0110c6a77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TestCalendarApp.EventModel) -&gt; () in TestCalendarApp.CalendarController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "TestCalendarApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erbolot/Desktop/Projects%20Mac15/TestCalendarApp/TestCalendarApp/Modules/Calendar/CalendarController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "865FD0C6-DEA8-48CD-A92A-828048D2DF6C - 65a539f0110c6a31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TestCalendarApp.EventModel) -&gt; () in TestCalendarApp.CalendarController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "TestCalendarApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erbolot/Desktop/Projects%20Mac15/TestCalendarApp/TestCalendarApp/Modules/Calendar/CalendarController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
